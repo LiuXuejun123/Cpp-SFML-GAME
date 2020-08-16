@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@D:\MinGW\x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (1)\mingw64
+Options: 
+
+Options:

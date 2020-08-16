@@ -1,0 +1,10 @@
+"D:\CLion\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\liuxu\Desktop\C++SMFL\TETRIS
+-- Found SFML 2.5.1 in D:/MinGW/SFML-2.5.1/lib/cmake/SFML
+SFML FOUND!
+CMake Error at CMakeLists.txt:15 (target_link_libraries):
+  Cannot specify link libraries for target "CppGenerativeArtistry" which is
+  not built by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/liuxu/Desktop/C++SMFL/TETRIS/cmake-build-debug/CMakeFiles/CMakeOutput.log".
