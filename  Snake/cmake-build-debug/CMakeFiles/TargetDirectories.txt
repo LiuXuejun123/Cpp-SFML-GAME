@@ -1,0 +1,3 @@
+C:/Users/liuxu/Desktop/C++SMFL/ Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liuxu/Desktop/C++SMFL/ Snake/cmake-build-debug/CMakeFiles/TETRIS.dir
+C:/Users/liuxu/Desktop/C++SMFL/ Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
